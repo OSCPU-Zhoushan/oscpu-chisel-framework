@@ -62,3 +62,7 @@ make emu
 ```
 ./build/emu -i <RISC-V程序(.bin文件)的路径>
 ```
+
+## Bug报告
+
+联系一生一芯助教组，或在GitHub Issue区提出问题，或直接发起Pull Request提交合并请求。
