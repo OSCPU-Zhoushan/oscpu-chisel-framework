@@ -1,0 +1,16 @@
+# mill
+out/
+.bsp/
+.idea/
+.idea_modules/
+test_run_dir/
+
+*.out
+.vscode/
+build/
+obj_dir/
+logs/
+
+# DRAMsim3
+dramsim3*.json
+dramsim3.txt
